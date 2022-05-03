@@ -1,0 +1,37 @@
+.head{
+    width: 100%;
+    height: 50px;
+}
+.head h1{
+    text-align: center;
+    margin: auto 0px auto 0px;
+}
+
+.inputfrom{
+    width: 50%;
+    height: 70px;
+    margin: 10px auto 10px auto;
+    border-bottom: 2px #666 dashed;
+    display: grid;
+    place-items: center;
+}
+.inputfrom div button{
+    margin: 0px 0px 0px 20px;
+}
+.output{
+    width: 30%;
+    height: auto;
+    margin: 10px auto 30px auto;
+}
+.output li{
+    margin: 10px 0px 10px 0px;
+}
+.output li button{
+    float: right;
+}
+.back{
+    width: 100%;
+    margin: 10px auto 10px auto;
+    display: grid;
+    place-items: center;
+}
